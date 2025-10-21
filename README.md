@@ -20,11 +20,13 @@ Flatbooks, a local bookstore, needs a website to start advertising their selecti
    - Open the project in VSCode.
    - Run `npm install` to install all necessary dependencies.
 
+
 2. **Update Existing Element**
    - Update the header of page to match the name of the book store
       - Select the DOM element with the id of `header` 
       - Save as a variable called `bookStoreTitle`
       - Change the textContent of `bookStoreTitle` to the name property of the `bookStore` variable
+
 
 3. **Create New Element**
    - Create a new element for each book 
